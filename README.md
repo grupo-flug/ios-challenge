@@ -14,6 +14,7 @@ O objetivo deste desafio é criar um aplicativo que mostre uma lista de vídeos 
 ### Critérios de avaliação (por ordem de importância)
 - O aplicativo é funcional;
 - O seu código lida com erros;
+- O seu código segue a arquitetura proposta (MVVM) e utiliza boas práticas;
 - O seu código possui testes;
 
 ### Observações
