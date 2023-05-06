@@ -20,7 +20,7 @@ O objetivo deste desafio é criar um aplicativo que mostre uma lista de vídeos 
 ### Observações
 - O código deve ser escrito em Swift utilizando SwiftUI;
 - Você pode usar quaisquer bibliotecas de terceiros que desejar;
-- Para entregar o projeto, adicione o código em um repositório próprio do github e envie para o email: ;
+- Para entregar o projeto, adicione o código em um repositório próprio do github e envie para o email: felipe.paschoal@grupoflug.com;
 - Espera-se que você demore entre 2 e 3 horas neste projeto;
 - Após o recebimento das instruções você terá 24 horas para entregar seu projeto;
 
