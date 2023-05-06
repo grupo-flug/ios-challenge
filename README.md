@@ -1,7 +1,7 @@
 # Desafio Técnico em Swift
 
 ### Introdução
-O objetivo deste desafio é criar um aplicativo que mostre uma lista de vídeos populares da [Pexels](https://www.pexels.com/api/) utilizando a linguagem Swift e o framework SwiftUI. 
+O objetivo deste desafio é criar um aplicativo que mostre uma lista de vídeos populares da [Pexels](https://www.pexels.com/api/) utilizando a linguagem Swift e o Framework SwiftUI. 
 
 ### Requerimentos
 - Crie um aplicativo que mostre uma lista de vídeos populares da Pexels usando o SwiftUI;
